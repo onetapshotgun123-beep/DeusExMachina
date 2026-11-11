@@ -1,0 +1,68 @@
+# Whitelist repo: only the Deus Ex Machina project under deus/ is tracked.
+# Everything else in this workspace (other projects, scratch files) stays out.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/deus/
+
+# --- deus/: project source only ---
+deus/*
+!deus/client/
+!deus/extracted/
+!deus/paper/
+!deus/legacy_1034/
+!deus/art/
+!deus/build_jar.py
+!deus/make_pack.py
+!deus/make_paper_data.py
+!deus/make_client_data.py
+!deus/make_cmds.py
+!deus/make_lyrics.py
+!deus/make_sigils.py
+!deus/make_beat.py
+!deus/make_burst.py
+!deus/make_sky.py
+!deus/make_bolt.py
+!deus/make_boom.py
+!deus/validate_assets.py
+!deus/skyview.py
+!deus/probe_show.py
+!deus/rcon.py
+!deus/paper-test/
+
+# Paper test dir: only the dev protocol bot + packet map, never the server/world/logs
+deus/paper-test/*
+!deus/paper-test/bot.py
+!deus/paper-test/proto/
+deus/paper-test/proto/*
+!deus/paper-test/proto/packet_ids.json
+
+# Gradle projects: source + wrapper only, no build state or run logs
+deus/client/*
+!deus/client/src/
+!deus/client/gradle/
+!deus/client/build.gradle
+!deus/client/settings.gradle
+!deus/client/gradle.properties
+!deus/client/gradlew
+!deus/client/gradlew.bat
+
+deus/paper/*
+!deus/paper/src/
+!deus/paper/gradle/
+!deus/paper/build.gradle
+!deus/paper/settings.gradle
+!deus/paper/gradle.properties
+!deus/paper/gradlew
+!deus/paper/gradlew.bat
+!deus/paper/README.md
+
+# Generated pack zip is rebuilt by make_pack.py; never track binaries we can regenerate
+deus/paper/pack/
+
+# Never track these, anywhere
+sessions.py
+*.log
+__pycache__/
+.gradle/

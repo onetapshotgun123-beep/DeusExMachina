@@ -1,0 +1,48 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+
+version = mod_version
+group = 'net.deusexmachina'
+
+base {
+    archivesName = 'deusex-client'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+
+    // No parchment block on purpose. This project's output is not run here - the compiled classes
+    // are merged into the datapack jar and loaded by a production NeoForge, which speaks Mojang
+    // official mappings. Parchment renames members on top of those mappings, so anything compiled
+    // against a parchment-mapped artifact can reference a name that does not exist in the real game.
+
+    runs {
+        client {
+            client()
+            // DevProbe mode selector; the probe class is not in the shipped jar and this build
+            // file is not either. ./gradlew runClient -PdeusexProbe=show drives the in-world test.
+            systemProperty 'deusex.probe', (findProperty('deusexProbe') ?: 'slider')
+        }
+
+        server {
+            server()
+            programArgument '--nogui'
+            programArgument '--port'
+            programArgument '25599'
+        }
+    }
+
+    mods {
+        "${mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}

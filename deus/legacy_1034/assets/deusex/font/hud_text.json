@@ -1,0 +1,19 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "deusex:font/digits.png",
+   "ascent": -41,
+   "height": 8,
+   "chars": [
+    "0123456789:/"
+   ]
+  },
+  {
+   "type": "space",
+   "advances": {
+    " ": 4
+   }
+  }
+ ]
+}

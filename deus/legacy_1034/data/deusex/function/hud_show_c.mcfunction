@@ -1,0 +1,1 @@
+$title @a actionbar ["",{"text":"","font":"deusex:space"},{"text":"$(bx)","font":"deusex:box"},{"text":"","font":"deusex:space"},{"text":"$(g)","font":"deusex:hud_c"},{"text":"","font":"deusex:space"},{"text":"","font":"deusex:space"},{"text":"","font":"deusex:space"}]

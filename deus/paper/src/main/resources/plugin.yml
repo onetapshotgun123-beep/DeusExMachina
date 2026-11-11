@@ -1,0 +1,20 @@
+name: DeusExMachina
+version: 1.0.0
+main: net.deusexmachina.paper.DeusExPlugin
+api-version: '1.21'
+description: The Deus Ex Machina show as a server-side Paper plugin with an auto-sent resource pack. Vanilla clients only.
+author: DeusExMachina
+commands:
+  deusex:
+    description: Run the Deus Ex Machina event
+    usage: /deusex start <player> <hp> | pause | resume | stop | loop | reset | phase2 | volume <0-100> | status
+permissions:
+  deusex.use:
+    description: Use the basic show commands
+    default: op
+  deusex.admin:
+    description: Use phase2 and reset
+    default: op
+  deusex.volume:
+    description: Change your own music volume
+    default: true

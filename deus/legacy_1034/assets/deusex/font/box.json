@@ -1,0 +1,25 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "deusex:font/box.png",
+   "ascent": -29,
+   "height": 32,
+   "chars": [
+    "\ue300",
+    "\ue301",
+    "\ue302",
+    "\ue303",
+    "\ue304",
+    "\ue305",
+    "\ue306",
+    "\ue307",
+    "\ue308",
+    "\ue309",
+    "\ue30a",
+    "\ue30b",
+    "\ue30c"
+   ]
+  }
+ ]
+}

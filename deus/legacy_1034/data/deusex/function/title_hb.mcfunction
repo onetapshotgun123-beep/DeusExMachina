@@ -1,0 +1,1 @@
+$title @a title ["",{"text":"","font":"deusex:tspace"},{"text":"","font":"deusex:fx"},{"text":"","font":"deusex:tspace"},{"text":"$(rc)","font":"deusex:fx"},{"text":"","font":"deusex:tspace"},{"text":"\ue008","font":"deusex:tspace"},{"text":"$(heart)","font":"deusex:fx"},{"text":"\ue009","font":"deusex:tspace"}]

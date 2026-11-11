@@ -1,0 +1,1 @@
+$execute as @a[tag=deusex_catchup] at @s run playsound deusex:chunk_$(idx) record @s ~ ~ ~ 1 1 1

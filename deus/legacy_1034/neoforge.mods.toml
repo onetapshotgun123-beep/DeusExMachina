@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="Unspecified"
+
+[[mods]]
+modId="deusexmachina"
+version="1.0.34"
+displayName="Deus Ex Machina"
+description='''A NeoForge 1.21.1 port with continuous audio, beatdrop player freeze, a red heartbeat intro that ends on the final beat with a heart that explodes at the slam and a red flash on the drop, red rain for the whole song, a red screen wash under it, synced fading lyrics, a random red flash in the distant sky and a song volume slider in Music & Sound beside Voice/Speech, under Ambient/Environment. The pack owns the weather: its rain texture is red, so the world's own weather cycle is turned off and it only rains while the show is running.'''
+logoFile="pack.png"
+
+[[dependencies.deusexmachina]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.deusexmachina]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"

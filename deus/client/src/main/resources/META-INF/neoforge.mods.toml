@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="Unspecified"
+
+[[mods]]
+modId="deusexmachina"
+version="1.1.0"
+displayName="Deus Ex Machina"
+description='''A NeoForge 1.21.1 show mod. The whole event runs in the client: sample-accurate audio, a red heartbeat intro whose heart explodes on the beat drop, a red screen wash, synced static lyrics, a red sky flash and red rain for the song, and a song volume slider in Music & Sound under Ambient/Environment. The server is a thin orchestrator behind /function deusex:start; it forces rain only while the show runs and restores the weather afterwards, so natural rain and the sky are untouched outside the event. Every player must install this jar - a vanilla client sees and hears nothing.'''
+logoFile="pack.png"
+
+[[mixins]]
+config="deusexmachina.mixins.json"
+
+[[dependencies.deusexmachina]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.deusexmachina]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"

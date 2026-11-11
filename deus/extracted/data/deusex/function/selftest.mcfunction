@@ -1,0 +1,6 @@
+# What the game can see, printed in chat. The show itself runs in the client mod; this reports the
+# scoreboard bridge the server orchestrator mirrors. #tk climbing once per game tick proves the
+# datapack loop is alive; #state/#pos/#loop are written by the mod every server tick.
+tellraw @a ["",{"text":"DEUS-BUILD ","color":"gold","bold":true},{"text":"1.1.0","color":"red","bold":true}]
+tellraw @a ["",{"text":"DEUS-LOOP ","color":"yellow"},{"text":"ticks ","color":"gray"},{"score":{"name":"#tk","objective":"deusex"}},{"text":"  state ","color":"gray"},{"score":{"name":"#state","objective":"deusex"}},{"text":"  pos ","color":"gray"},{"score":{"name":"#pos","objective":"deusex"}},{"text":"  loop ","color":"gray"},{"score":{"name":"#loop","objective":"deusex"}}]
+tellraw @a ["",{"text":"DEUS-NOTE ","color":"green"},{"text":"The show (audio, lyrics, heart, wash, sky, rain) runs in the client mod. Every player must have the jar installed; a vanilla client sees and hears nothing. Natural rain and the sky are left alone outside the event.","color":"white"}]

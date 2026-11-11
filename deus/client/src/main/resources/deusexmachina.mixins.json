@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8.5",
+    "package": "net.deusexmachina.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "ChannelMixin",
+        "SkyMixin",
+        "RainMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

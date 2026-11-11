@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "deusex:font/skyred.png",
+      "ascent": 8,
+      "height": 32,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

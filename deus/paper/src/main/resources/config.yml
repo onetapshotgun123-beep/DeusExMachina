@@ -1,0 +1,16 @@
+# Deus Ex Machina — Paper 1.21.11 port
+
+music:
+  # Default music volume for players (0-100). Each player can override with /deusex volume.
+  default-volume: 45
+
+pack:
+  # Address clients use to download the resource pack. 127.0.0.1 only works when the client
+  # runs on the same machine as the server — set your public IP or domain for a real server.
+  host: 127.0.0.1
+  port: 25599
+  # Optional: serve the pack yourself (e.g. over HTTPS). Leave empty to use the built-in server.
+  url: ""
+  prompt: "Deus Ex Machina needs this pack to draw the show."
+  # Kick players who decline the pack — the show is unreadable without its fonts and sounds.
+  required: true

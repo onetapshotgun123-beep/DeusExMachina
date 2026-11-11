@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "deusex:font/skyglow.png",
+      "ascent": 24,
+      "height": 48,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

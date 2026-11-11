@@ -1,0 +1,22 @@
+{
+  "main_track": {
+    "sounds": [
+      { "name": "deusexmachina:main_track", "stream": true }
+    ]
+  },
+  "heartbeat": {
+    "sounds": [
+      { "name": "deusexmachina:heartbeat" }
+    ]
+  },
+  "boom": {
+    "sounds": [
+      { "name": "deusexmachina:boom" }
+    ]
+  },
+  "boom_rise": {
+    "sounds": [
+      { "name": "deusexmachina:boom_rise" }
+    ]
+  }
+}

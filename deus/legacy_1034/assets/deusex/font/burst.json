@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "deusex:font/heart_burst.png",
+      "ascent": 297,
+      "height": 600,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

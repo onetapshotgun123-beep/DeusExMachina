@@ -1,0 +1,59 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "deusex:font/black.png",
+      "ascent": 297,
+      "height": 600,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "deusex:font/white.png",
+      "ascent": 297,
+      "height": 600,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "deusex:font/red_lv.png",
+      "ascent": 297,
+      "height": 600,
+      "chars": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "deusex:font/heart_pulse.png",
+      "ascent": 147,
+      "height": 300,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

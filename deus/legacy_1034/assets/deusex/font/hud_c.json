@@ -1,0 +1,14 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "deusex:font/disc_c.png",
+   "ascent": -33,
+   "height": 24,
+   "chars": [
+    "\ue200\ue201\ue202\ue203\ue204",
+    "\ue205\ue206\ue207\ue208\ue209"
+   ]
+  }
+ ]
+}

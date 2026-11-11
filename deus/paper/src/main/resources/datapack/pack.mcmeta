@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [94, 1],
+    "description": "Deus Ex Machina victory advancement"
+  }
+}

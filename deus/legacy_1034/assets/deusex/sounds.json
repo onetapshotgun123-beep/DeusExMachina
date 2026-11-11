@@ -1,0 +1,1688 @@
+{
+  "chunk_0": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_0",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_1": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_1",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_2": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_2",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_3": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_3",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_4": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_4",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_5": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_5",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_6": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_6",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_7": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_7",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_8": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_8",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_9": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_9",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_10": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_10",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_11": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_11",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_12": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_12",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_13": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_13",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_14": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_14",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_15": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_15",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_16": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_16",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_17": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_17",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_18": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_18",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_19": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_19",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_20": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_20",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_21": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_21",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_22": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_22",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_23": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_23",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_24": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_24",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_25": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_25",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_26": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_26",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_27": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_27",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_28": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_28",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_29": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_29",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_30": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_30",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_31": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_31",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_32": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_32",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_33": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_33",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_34": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_34",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_35": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_35",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_36": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_36",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_37": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_37",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_38": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_38",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_39": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_39",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_40": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_40",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_41": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_41",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_42": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_42",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_43": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_43",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_44": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_44",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_45": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_45",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_46": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_46",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_47": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_47",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_48": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_48",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_49": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_49",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_50": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_50",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_51": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_51",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_52": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_52",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_53": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_53",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_54": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_54",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_55": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_55",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_56": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_56",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_57": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_57",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_58": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_58",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_59": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_59",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_60": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_60",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_61": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_61",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_62": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_62",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_63": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_63",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_64": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_64",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_65": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_65",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_66": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_66",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_67": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_67",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_68": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_68",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_69": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_69",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_70": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_70",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_71": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_71",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_72": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_72",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_73": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_73",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_74": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_74",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_75": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_75",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_76": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_76",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_77": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_77",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_78": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_78",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_79": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_79",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_80": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_80",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_81": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_81",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_82": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_82",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_83": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_83",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_84": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_84",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_85": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_85",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_86": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_86",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_87": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_87",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_88": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_88",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_89": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_89",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_90": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_90",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_91": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_91",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_92": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_92",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_93": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_93",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_94": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_94",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_95": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_95",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_96": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_96",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_97": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_97",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_98": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_98",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_99": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_99",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_100": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_100",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_101": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_101",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_102": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_102",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_103": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_103",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_104": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_104",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_105": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_105",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_106": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_106",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_107": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_107",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_108": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_108",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_109": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_109",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_110": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_110",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_111": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_111",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_112": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_112",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_113": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_113",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_114": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_114",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_115": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_115",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_116": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_116",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_117": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_117",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_118": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_118",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_119": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_119",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_120": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_120",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_121": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_121",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_122": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_122",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_123": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_123",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_124": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_124",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_125": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_125",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_126": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_126",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_127": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_127",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_128": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_128",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_129": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_129",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_130": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_130",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_131": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_131",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_132": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_132",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_133": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_133",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_134": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_134",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_135": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_135",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_136": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_136",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_137": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_137",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_138": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_138",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_139": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_139",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_140": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_140",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_141": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_141",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_142": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_142",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_143": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_143",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_144": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_144",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_145": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_145",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_146": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_146",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_147": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_147",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_148": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_148",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_149": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_149",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_150": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_150",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_151": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_151",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_152": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_152",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_153": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_153",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_154": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_154",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_155": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_155",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_156": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_156",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_157": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_157",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_158": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_158",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_159": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_159",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_160": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_160",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_161": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_161",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_162": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_162",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_163": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_163",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_164": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_164",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_165": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_165",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_166": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_166",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_167": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_167",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_168": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_168",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_169": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_169",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_170": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_170",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_171": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_171",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_172": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_172",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_173": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_173",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_174": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_174",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_175": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_175",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_176": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_176",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_177": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_177",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_178": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_178",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_179": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_179",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_180": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_180",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "chunk_181": {
+    "sounds": [
+      {
+        "name": "deusex:chunk_181",
+        "stream": false,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "prewarm": {
+    "sounds": [
+      {
+        "name": "deusex:prewarm",
+        "stream": true,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "main_track": {
+    "sounds": [
+      {
+        "name": "deusex:main_track",
+        "stream": true,
+        "attenuation_distance": 100000
+      }
+    ]
+  },
+  "heartbeat": {
+    "sounds": [
+      {
+        "name": "deusex:heartbeat",
+        "stream": false,
+        "attenuation_distance": 100000,
+        "preload": true
+      }
+    ]
+  },
+  "boom": {
+    "sounds": [
+      {
+        "name": "deusex:boom",
+        "stream": false,
+        "attenuation_distance": 100000,
+        "preload": true
+      }
+    ]
+  },
+  "boom_rise": {
+    "sounds": [
+      {
+        "name": "deusex:boom_rise",
+        "stream": false,
+        "preload": true,
+        "attenuation_distance": 100000
+      }
+    ]
+  }
+}
